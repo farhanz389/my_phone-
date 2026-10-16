@@ -1,22 +1,17 @@
 # 📱 My Phone - Aplikasi Jual Beli Handphone
 
-Aplikasi platform *e-commerce* berbasis **Flutter** yang dirancang untuk transaksi jual beli handphone dan aksesoris elektronik. Proyek ini dikembangkan untuk memenuhi tugas mata kuliah **Pemrograman Berbasis Platform (PBP)**.
+Aplikasi platform *e-commerce* berbasis **Flutter** yang dirancang untuk transaksi jual beli handphone. Proyek ini dikembangkan untuk memenuhi tugas mata kuliah **Pemrograman Berbasis Platform (PBP)**.
 
 ---
 
-## 🌐 Live Demo / Link Application
-Aplikasi telah berhasil dideploy dan dapat diakses langsung oleh Dosen / Penguji pada tautan di bawah ini:
+- Flutter
+- Dart
+- Firebase Hosting
 
-👉 **[https://my-phone-app-5dc7e.web.app](https://my-phone-app-5dc7e.web.app)** 👈
+## Deployment
+Aplikasi telah berhasil di-deploy menggunakan Firebase Hosting.
 
----
+🌐 **Link Website:** https://my-phone-app-5dc7e.web.app
 
-## 🚀 Getting Started
-
-This project is built using the **Flutter** framework. 
-
-### Prerequisites & Installation
-1. Pastikan Flutter SDK sudah terpasang di perangkat kamu.
-2. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/farhanz389/my_phone-.git](https://github.com/farhanz389/my_phone-.git)
+## Source Code
+Source code aplikasi tersedia di repository GitHub ini.
